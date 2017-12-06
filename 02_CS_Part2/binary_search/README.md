@@ -12,7 +12,7 @@
 
 #### Objective 2
 
-* Import the file `wordlist.txt` 
+* Read the file `wordlist.txt` 
 * Search for the following words
 	* `illuminatingly`
 	* `lexicalisation`
